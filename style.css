@@ -20,6 +20,15 @@ body {
     border: 2px solid;
     box-shadow: inset;
     font-size:15;
+
+.profile-image {
+    border: 2px solid #000;
+    border-radius: 19px;
+    padding: 5px;
+    display: block;
+    margin: 20px auto
+
+}
 }
 #About-me {
     background-color: transparent;
@@ -30,6 +39,7 @@ body {
     box-shadow: inset;
     font-size: 12 ;
 }
+/* Nav links Colors */
 a:-webkit-any-link {
     color: purple;
     cursor: pointer;
