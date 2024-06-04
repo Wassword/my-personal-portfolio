@@ -1,0 +1,35 @@
+
+/* Base styling for the body( About me) */
+body {
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: rgb(0, 0, 0);
+     line-height: 1.6em;
+     font-size: larger;
+     line-height: 2.5em;
+     text-align: center;
+     background-image:url('https://marketplace.canva.com/EAFdY-hVvKs/1/0/1131w/canva-beige-white-aesthetic-paper-notes-background-a4-document-QDBlYAjBN24.jpg')
+     background-position:center;
+     
+
+    }
+header {
+    background-color: rgb(181, 159, 202);
+    padding-top: 30px; 
+    min-height: 70px;
+    border-bottom: rgb(36, 20, 20);
+}
+
+
+footer {
+    position:fixed;
+    font-family:cursive;
+    font-size: small;
+    color: rgb(243, 240, 236);
+    background-color: burlywood;
+
+}
+@media (max-width:600px) {
+    .nav-container {
+        flex-direction: column;
+    }
+}
