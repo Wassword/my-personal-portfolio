@@ -12,6 +12,25 @@ body {
      
 
     }
+.content {
+    background-color: transparent;
+    padding: 50px;
+    border-radius: 0 0 10px;
+    margin: 20px;
+    border: 2px solid;
+    box-shadow: inset;
+    font-size:
+}
+#About-me {
+    background-color: transparent;
+    padding: 50px;
+    border-radius: 0 0 10px;
+    margin: 20px;
+    border: 2px solid;
+    box-shadow: inset;
+    font-size: ;
+}
+
 header {
     background-color: rgb(181, 159, 202);
     padding-top: 30px; 
