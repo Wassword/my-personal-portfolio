@@ -56,7 +56,11 @@ header {
 
 footer {
     background-color:  #efcbcb;
-    position:fixed;
+    padding: 5px;
+    border-radius: 0 0 1px;
+    margin: 10px;
+    line-height: 1em;
+    border: 2px solid;
     font-family:cursive;
     font-size: small;
     color: purple;
